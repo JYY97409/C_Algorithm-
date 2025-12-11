@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2330A11F-44EB-42D8-ADDA-37557BD0A49F}|test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5.vcxproj|C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\QT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2330A11F-44EB-42D8-ADDA-37557BD0A49F}|test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5.vcxproj|solutionrelative:QT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2330A11F-44EB-42D8-ADDA-37557BD0A49F}|test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5.vcxproj|C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2330A11F-44EB-42D8-ADDA-37557BD0A49F}|test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2330A11F-44EB-42D8-ADDA-37557BD0A49F}|test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5.vcxproj|C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\QT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2330A11F-44EB-42D8-ADDA-37557BD0A49F}|test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5.vcxproj|solutionrelative:QT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QT.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\QT.cpp",
+              "RelativeDocumentMoniker": "QT.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\QT.cpp",
+              "RelativeToolTip": "QT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T13:11:54.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QT.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\QT.h",
+              "RelativeDocumentMoniker": "QT.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\QT.h",
+              "RelativeToolTip": "QT.h",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwJcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:38:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\\test_2025_12_11_C\u002B\u002B\u961F\u5217\u7684C\u002B\u002B\u5199\u6CD5\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T12:37:49.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
