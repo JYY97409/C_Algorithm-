@@ -1,0 +1,5 @@
+﻿  hp.c
+C:\Users\lenovo\Desktop\C++\数据结构\test_2025_12_14_C_堆的实现\hp.c(21,7): warning C4047: “=”:“HpDataType *”与“HpDataType”的间接级别不同
+C:\Users\lenovo\Desktop\C++\数据结构\test_2025_12_14_C_堆的实现\hp.c(23,6): warning C4047: “=”:“HpDataType”与“HpDataType *”的间接级别不同
+C:\Users\lenovo\Desktop\C++\数据结构\test_2025_12_14_C_堆的实现\hp.c(114,12): warning C4133: “=”: 从“HP *”到“HpDataType *”的类型不兼容
+  test_2025_12_14_C_堆的实现.vcxproj -> C:\Users\lenovo\Desktop\C++\数据结构\test_2025_12_14_C_堆的实现\x64\Debug\test_2025_12_14_C_堆的实现.exe
