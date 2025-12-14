@@ -1,3 +1,2 @@
 ﻿  test.cpp
-C:\Users\lenovo\Desktop\C++\数据结构\test_2025_12_12_C++数据结构堆的实现\Heap.h(107,1): warning C4715: “HP::HpPop”: 不是所有的控件路径都返回值
-  test_2025_12_12_C++数据结构堆的实现.vcxproj -> C:\Users\lenovo\Desktop\C++\数据结构\test_2025_12_12_C++数据结构堆的实现\x64\Debug\test_2025_12_12_C++数据结构堆的实现.exe
+C:\Users\lenovo\Desktop\github仓库\C_Algorithm-\test_2025_12_12_C++数据结构堆的实现\test.cpp(1,1): error C1090: PDB API 调用失败，错误代码“3”: C:\Users\lenovo\Desktop\github仓库\C_Algorithm-\test_2025_12_12_C++数据结构堆的实现\test_202.b99bbad3\x64\Debug\vc143.pdb
