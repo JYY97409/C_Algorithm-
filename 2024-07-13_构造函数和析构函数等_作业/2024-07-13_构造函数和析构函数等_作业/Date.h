@@ -1,4 +1,5 @@
 #pragma once
+#include<iostream>
 class Date
 
 {
@@ -9,7 +10,7 @@ public:
 
 	int GetMonthDay(int year, int month);
 
-
+	void DisplayDate();
 
 	// 全缺省的构造函数
 
